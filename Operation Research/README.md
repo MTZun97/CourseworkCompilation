@@ -1,0 +1,1 @@
+This course is taught by Professor Ling-Chieh Kung at National Taiwan University. I've shared my notes from the course, and you can access the course [here](https://www.coursera.org/learn/operations-research-modeling/home/info).
