@@ -1,0 +1,1 @@
+This course is instructed by Professor Todd Pataky. I've included my notes and assignemtn from the Data Analysis course, and you can find the open textbook [here](https://github.com/0todd0000/OpenBook-DataAnalysisPracticeInPythonAndJupyter.git).
